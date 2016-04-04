@@ -304,7 +304,7 @@ border: none;
 	.news p{
 		text-align: justify;
 	}
-	
+
 }
 @media screen and (max-width: 1229px) {
 	.cont {
@@ -376,6 +376,9 @@ border: none;
 	font-family: 'Roboto', 'sans-serif';
 	font-size:16px;
 	font-weight:300;
+	text-align: justify;
+	width: 50%;
+	margin: 10px auto;
 }
 /**/
 .centPic{
@@ -2214,6 +2217,12 @@ word-wrap: break-word;
   width: 100%;
   border-top: none !important;
 }
-}/* end */
+}
+
+#selection h4{
+
+}
+
+/* end */
 
 
