@@ -292,6 +292,10 @@ border: none;
 	.soc ul li{
 		margin-bottom: 20px;
 	}
+
+	.cBusiness h4{
+		width: 100% !important;
+	}
 }
 @media screen and (max-width: 323px){
 	.footer .fEmail{
@@ -303,6 +307,9 @@ border: none;
 	}
 	.news p{
 		text-align: justify;
+	}
+	.cBusiness h4{
+		width: 100% !important;
 	}
 
 }
