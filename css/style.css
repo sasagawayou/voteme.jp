@@ -44,7 +44,8 @@ img.logo{
 
 h1{
 	font-size: 37px;
-	margin: auto;
+	position: relative;
+	left: 11%;
 }
 /* ipad
 -------------------------------------------------- */
@@ -77,7 +78,15 @@ h1{
     #area0  dd {
     	 border-bottom: 1px solid #666666;
     }
+ 	h1{
+	font-size: 35px;
+	font-weight: 900;
+	left: 4%
+	}	
 }
+
+
+
 
 
 /* PC
