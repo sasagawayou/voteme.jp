@@ -953,7 +953,7 @@ border: none;
 #filter li a{
 	display: block;
     float: left;
-    width: 120px;
+    width: 110px;
     clear: left;
 	text-decoration:none;
 	text-transform:uppercase;
@@ -2251,6 +2251,14 @@ word-wrap: break-word;
 	#filter li a{
 	  position: relative;
 	  left: 24%;
+	}
+}
+/* iphone5
+-------------------------------------------------- */
+@media (max-width: 320px){
+	#filter li a{
+	  position: relative;
+	  left: -10%;
 	}
 }
 
