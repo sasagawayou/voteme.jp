@@ -2020,7 +2020,7 @@ textarea {
     z-index: 2;
 }
 .isotope-item{
-max-height: 370px !important;
+/*max-height: 370px !important;*/
 margin-bottom: 35px !important;
 
 }

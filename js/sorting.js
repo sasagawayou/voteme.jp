@@ -4,7 +4,7 @@ $(window).load(function(){
 
 	$container.isotope({
 		itemSelector : '.element',
-		masonry: {columnWidth: 1,rowHeight: +50}
+		masonry: {columnWidth: 1}
 	});
     
 	var $optionSets = $('#options .option-set'),
