@@ -1003,6 +1003,8 @@ border: none;
 .pretty {
 	margin-top:0;
 }
+
+
 .isotope-item{
 	top: 38px !important;
 }
@@ -2013,7 +2015,7 @@ textarea {
 /*isotop*/
 
 /* ---- button ---- */
-/*
+
 .isotope-item {
     z-index: 2;
 }
@@ -2049,7 +2051,7 @@ margin-bottom: 35px !important;
     -moz-transition-property: -moz-transform, opacity;
     transition-property: transform, opacity;
 }
-*/
+
 /*-----------------------------------------------------------------------------------*/
 /*	PORTFOLIO
 /*-----------------------------------------------------------------------------------*/
